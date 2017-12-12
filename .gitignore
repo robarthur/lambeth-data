@@ -1,3 +1,9 @@
+## Jupyter/Notebook Related
+.conda/
+.ipython/
+.jupyter/
+.local/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
